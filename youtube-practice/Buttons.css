@@ -1,0 +1,41 @@
+.bt1 {
+  background-color:rgb(200, 0, 0);
+  color:white;
+  border: none;
+  border-radius: 3px;
+  height:35px;
+  width: 120px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-right: 8px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.bt2 {
+  cursor: pointer;
+  height: 35px;
+  width: 65px;
+  color: rgb(0, 0, 255);
+  background-color: rgb(255,255,255);
+  border-color:rgb(210, 210, 221);
+  border-style: solid;
+  border-radius: 3px;
+  margin-right: 8px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.bt3 {
+  cursor: pointer;
+  height: 35px;
+  width: 75px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(29, 161, 242);
+  border-radius: 18px;
+  border-style: none;
+  font-weight: bold;
+  font-size: 15px;
+}
