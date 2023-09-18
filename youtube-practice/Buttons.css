@@ -123,6 +123,7 @@
 
 .GitHub:hover{
   background-color: rgb(46, 134, 79);
+  box-shadow: 5px 5px 5px green;
 }
 
 .GitHub:active{
@@ -145,6 +146,7 @@
 
 .Bootstrap:hover{
   background-color: rgb(121, 52, 179);
+  box-shadow: 5px 5px 5px purple;
 }
 
 .Bootstrap:active{
@@ -191,6 +193,7 @@
 
 .LinkedIn:hover{
   background-color: rgb(10, 102, 170);
+  box-shadow: 5px 5px 5px blue;
 }
 
 .LinkedIn:active{
