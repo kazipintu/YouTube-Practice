@@ -96,6 +96,15 @@
   font-size: 15px; 
   font-weight: bold;
   margin: 10px;
+  transition: .15s;
+}
+
+.Amazon:hover{
+  background-color: rgba(255, 216, 20, .5);
+}
+
+.Amazon:active{
+  opacity: .5;
 }
 
 .GitHub{
@@ -109,6 +118,15 @@
   font-size: 15px; 
   font-weight: bold;
   margin: 10px;
+  transition: .15s;
+}
+
+.GitHub:hover{
+  background-color: rgb(46, 134, 79);
+}
+
+.GitHub:active{
+  opacity: .5;
 }
 
 .Bootstrap{
@@ -122,6 +140,15 @@
   font-size: 15px; 
   font-weight: bold;
   margin: 10px;
+  transition: .15s;
+}
+
+.Bootstrap:hover{
+  background-color: rgb(121, 52, 179);
+}
+
+.Bootstrap:active{
+  opacity: .5;
 }
 
 .Download{
@@ -136,6 +163,16 @@
   font-size: 15px; 
   font-weight: bold;
   margin-left: -5px;
+  transition: .15s;
+}
+
+.Download:hover{
+  color: rgb(255, 255, 255);
+  background-color: rgb(108, 117, 125);
+}
+
+.Download:active{
+  opacity: .5;
 }
 
 .LinkedIn{
