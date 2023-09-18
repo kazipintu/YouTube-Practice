@@ -149,6 +149,15 @@
   font-size: 15px; 
   font-weight: bold;
   margin: 10px;
+  transition: .15s;
+}
+
+.LinkedIn:hover{
+  background-color: rgb(10, 102, 170);
+}
+
+.LinkedIn:active{
+  background-color: rgb(6, 10, 164);
 }
 
 .Save{
@@ -163,11 +172,31 @@
   font-size: 15px; 
   font-weight: bold;
   margin-left: -2px;
+  transition: .15s;
+}
+
+.Save:hover{
+  color: rgb(255, 255, 255);
+  background-color: rgb(10, 102, 194);
+}
+
+.Save:active{
+  opacity: 0.5;
 }
 
 .amazon-link{
   color: rgb(0, 113, 133);
   font-size: 20px;
+  transition: .15s;
+}
+
+.amazon-link:hover{
+  color:purple;
+  text-decoration: none;
+}
+
+.amazon-link:active{
+  color: red;
 }
 
 .nike{
@@ -198,6 +227,15 @@
   font-weight: bold;
   margin-left: auto;
   margin-right: 8px;
+  transition: .15s;
+}
+
+.cart:hover{
+  opacity: .7;
+}
+
+.cart:active{
+  opacity: .4;
 }
 
 .buy{
@@ -210,4 +248,13 @@
   border-radius: 20px;
   font-size: 15px; 
   font-weight: bold;
+  transition: opacity .15s, ;
+}
+
+.buy:hover{
+  opacity: .7;
+}
+
+.buy:active{
+  opacity: .4;
 }
